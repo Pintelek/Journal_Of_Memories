@@ -1,6 +1,6 @@
 # Personal Journal
 
-## [Журнал воспоминаний](https://meeting-pintelek.netlify.app/)
+## [Журнал воспоминаний](https://journal-of-memories.netlify.app/)
 
 **Технологии**
 
